@@ -1,0 +1,86 @@
+{
+    "CommandID": "531815c6-6452-448a-8bdd-c475fa0c41811625491052373",
+    "ResultName": "contributionsDetail",
+    "Seq": 4,
+    "Type": "Reply",
+    "UserID": "rohit.reddy@walkingtree.tech",
+    "Value": [
+        {
+            "Country": {
+                "code": "AD",
+                "displayName": "Andorra"
+            },
+            "TIV": 18187413.43794627
+        },
+        {
+            "Country": {
+                "code": "AE",
+                "displayName": "United Arab Emirates"
+            },
+            "TIV": 4286221.850154147
+        },
+        {
+            "Country": {
+                "code": "AF",
+                "displayName": "Afghanistan"
+            },
+            "TIV": 275333.4718058172
+        },
+        {
+            "Country": {
+                "code": "AG",
+                "displayName": "Antigua and Barbuda"
+            },
+            "TIV": 24555432.334057905
+        },
+        {
+            "Country": {
+                "code": "AI",
+                "displayName": "Anguilla"
+            },
+            "TIV": 7588165.858492416
+        },
+        {
+            "Country": {
+                "code": "AL",
+                "displayName": "Albania"
+            },
+            "TIV": 685593.9734107802
+        },
+        {
+            "Country": {
+                "code": "AM",
+                "displayName": "Armenia"
+            },
+            "TIV": 140072.78465744908
+        },
+        {
+            "Country": {
+                "code": "AO",
+                "displayName": "Angola"
+            },
+            "TIV": 102510.53957121084
+        },
+        {
+            "Country": {
+                "code": "AT",
+                "displayName": "Austria"
+            },
+            "TIV": 28891800.177173957
+        },
+        {
+            "Country": {
+                "code": "UA",
+                "displayName": "Ukraine"
+            },
+            "TIV": 239635.2620837344
+        },
+        {
+            "Country": {
+                "code": "UG",
+                "displayName": "Uganda"
+            },
+            "TIV": 1111476.57883129740367
+        }
+    ]
+}
